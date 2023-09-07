@@ -1,5 +1,5 @@
 # BLOB DAO Contracts
-Repository that holds Blob Contracts regarding Token, Feeding, Staking 
+Repository that holds Blob Contracts regarding Token, Feeding, Staking.
 
 Addresses for sepolia testnet are as follows:
 
